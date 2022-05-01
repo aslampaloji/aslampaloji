@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aslampaloji
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently on mern stack
 
 - 📫 How to reach me ... email 
 
